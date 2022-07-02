@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * to start our program
- * Prints a string output
+ * Prints a string to output
  * Return: 0 is success
  */
 int main(void)
