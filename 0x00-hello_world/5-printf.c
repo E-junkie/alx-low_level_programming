@@ -1,10 +1,10 @@
-#include <stdio.h>
+#include <stdio>
 
 /**
  * main - Entry point
  * to start our program
  * Prints a string to output
- * Return: 0 is success
+ * Return: 0 is a success
  */
 int main(void)
 {
