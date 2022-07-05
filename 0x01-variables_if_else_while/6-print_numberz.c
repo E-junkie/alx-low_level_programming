@@ -2,16 +2,17 @@
 
 /**
  * main - Entry point
- * prints alphabet in lowercase
+ * prints all single digit number of base 10
+ * using putchar to print
  * Return: 0 is successful
  */
 int main(void)
 {
-	char a2z;
-
-	for (a2z = 'a'; a2z <= 'z'; a2z++)
+	int i;
+	
+	for (i = 0; i < 10; i++)
 	{
-		putchar(a2z);
+		putchar(i + '0');
 	}
 	putchar('\n');
 	return (0);
