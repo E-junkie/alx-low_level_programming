@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - starting point of code running
+ * main - Entry point
  * prints alphabet in lowercase
  * except q and e
  * Return: 0 is successful
