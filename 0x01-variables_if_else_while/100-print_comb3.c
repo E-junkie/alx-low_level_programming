@@ -9,6 +9,7 @@
 int main(void)
 {
 	int n, i;
+	
 	for (n = 0 ; n < 9 ; n++)
 	{
 		i = n + 1;
