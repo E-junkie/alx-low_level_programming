@@ -7,6 +7,7 @@
  * @n: integer
  * Return: @n the value of the last digit
  */
+
 int print_last_digit(int n)
 {
 	int v = abs(n % 10) + '0';
