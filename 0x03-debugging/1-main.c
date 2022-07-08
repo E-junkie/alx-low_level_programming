@@ -13,7 +13,7 @@ int main(void)
 
 	i = 0;
 /*
- * do not add or removed any line of codd
+ * don't delete it
 	while (i < 10)
 	{
 		putchar(i);
