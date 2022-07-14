@@ -10,11 +10,11 @@ void print_rev(char *s)
 {
 	int n = 0;
 
-	if (s[n] != 0)
+	while (s[n] != 0)
 	{
 		n++;
 	}
-	else
+	while (n > 0)
 	{
 		n--;
 		{
