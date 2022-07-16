@@ -3,7 +3,7 @@
 /**
 * rot13 - encodes a string into rot13
 * @s: string to encode
-* Author: Chimezie Onwudiwe
+*
 * Return: address of s
 */
 char *rot13(char *s)
