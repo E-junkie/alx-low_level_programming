@@ -6,11 +6,11 @@
 * @haystack: the string to be searched
 *
 * Return: pointer to needle
-* Return: NULL if substring not found
+*  NULL if substring not found
 */
 char *_strstr(char *haystack, char *needle)
 {
-	
+
 	int x;
 
 	if (*needle == 0)
